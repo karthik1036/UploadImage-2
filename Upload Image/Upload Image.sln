@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upload Image", "Upload Image\Upload Image.csproj", "{C0E87808-B3F3-459C-9F78-C3FF4590CA62}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB-dacpac", "DB-dacpac\DB-dacpac.sqlproj", "{941D9259-6753-4650-B3B4-6049337F4B36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E87808-B3F3-459C-9F78-C3FF4590CA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E87808-B3F3-459C-9F78-C3FF4590CA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E87808-B3F3-459C-9F78-C3FF4590CA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E87808-B3F3-459C-9F78-C3FF4590CA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941D9259-6753-4650-B3B4-6049337F4B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941D9259-6753-4650-B3B4-6049337F4B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941D9259-6753-4650-B3B4-6049337F4B36}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{941D9259-6753-4650-B3B4-6049337F4B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941D9259-6753-4650-B3B4-6049337F4B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941D9259-6753-4650-B3B4-6049337F4B36}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69095A6-6724-4D26-802E-4F8BDCEE175B}
+	EndGlobalSection
+EndGlobal
